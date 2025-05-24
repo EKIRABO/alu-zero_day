@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-The School is open
-=======
 echo "Best School"
->>>>>>> update_script
